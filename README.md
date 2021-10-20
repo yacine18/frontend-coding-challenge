@@ -4,7 +4,7 @@ This is a simple web app that lists the most starred Github repositories that ar
 
 ## Set up project locally
 
-First you will need to clone:
+First you will need to clone the project:
 
 ``
 git clone https://github.com/yacine18/frontend-coding-challenge.git
