@@ -7,8 +7,7 @@ In order to set up this project locally, you will need first to clone this proje
 git clone https://github.com/yacine18/frontend-coding-challenge.git
 ``
 
-After cloning the project, You will need to install all the dependencies by running
-
+After cloning the project, You will need to install all the dependencies by running 
 ``
 npm install
 ``
